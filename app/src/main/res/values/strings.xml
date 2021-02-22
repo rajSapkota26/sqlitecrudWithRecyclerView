@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SqliteCrudApp</string>
+    <string name="view_data">View Data</string>
+    <string name="add_data">Add Data</string>
+    <string name="address">Address</string>
+    <string name="mobile">Mobile</string>
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+    <string name="save">Save</string>
+    <string name="data_list">Data List</string>
+</resources>
